@@ -30,7 +30,7 @@ yo mogy
 You can then create new activities or deciders for your app :
 
 ```bash
-cd myapp
+cd myworkflows
 yo mogy:activity
 yo mogy:decider
 ```
