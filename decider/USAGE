@@ -1,0 +1,9 @@
+Description:
+    Creates a mogy decider
+
+Example:
+    yo mogy:decider <name>
+
+    This will create:
+        deciders/your-decider-name/index.js: Main decider script
+        deciders/your-decider-name/package.json: Main decider script

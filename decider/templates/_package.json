@@ -1,0 +1,6 @@
+{
+  "name": "<%= dirname %>",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "private": true
+}

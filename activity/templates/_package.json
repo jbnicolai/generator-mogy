@@ -1,0 +1,19 @@
+{
+  "name": "<%= dirname %>",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "dependencies": {
+
+  },
+  "activities": {
+    "<%= dirname %>": {
+      "defaultTaskHeartbeatTimeout": "NONE",
+      "defaultTaskScheduleToCloseTimeout": "NONE",
+      "defaultTaskScheduleToStartTimeout": "NONE",
+      "defaultTaskStartToCloseTimeout": "NONE",
+      "description": "Update this description",
+      "input_schema": {},
+      "config_schema": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "generator-mogy",
+  "version": "0.0.0",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "neyric/generator-mogy",
+  "author": {
+    "name": "Eric Abouaf",
+    "email": "eric.abouaf@gmail.com",
+    "url": "https://github.com/neyric"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^0.5.0",
+    "lodash": "^2.4.1",
+    "underscore.string": "^2.4.0",
+    "yeoman-generator": "^0.18.0",
+    "yosay": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
